@@ -24,6 +24,6 @@ Bílek Tomáš - TL
 ---
 Portfolio využívá k zobrazování GitHub Pages s pluginen Jekyll
 
-Dostupné na tomto odkazu [Webová prezentace portfolia](https://dawissl.github.io/portfolio-simple/)
+Dostupné na tomto odkazu [Webová prezentace portfolia](https://nayrroxiik.github.io/portfolio/)
 
 
