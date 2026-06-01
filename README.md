@@ -15,6 +15,7 @@ Každý blok obsahuje:
 ## **Blok 2 – Vektorová grafika**
   - [Praktická část](portfolio/blocks/blok-05.md)
   - [Teoretické pozadí](portfolio/teorie/teorie-05.md)
+    
 ---
 
 Bílek Tomáš - TL
